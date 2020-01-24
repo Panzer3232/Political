@@ -1,0 +1,22 @@
+.test {
+    background: url('../../Images/orange.jpg') no-repeat center center/cover;
+
+}
+
+.overlay {
+    width: 100%; /* Full width (cover the whole page) */
+    height: 100%; /* Full height (cover the whole page) */
+    background-color: rgba(0, 0, 0, 0.644); /* Black background with opacity */
+}
+
+.padding {
+    padding-top: 2rem;
+}
+
+.mainColor {
+    color: white
+}
+.image{
+    width: 20px;
+    height: auto;
+}
